@@ -37,7 +37,7 @@ Coding
 
 Penjelasan
 
-    Pertama kita harus menginput bilangan pertama sampai bilangan ketiga. Codingnya :
+    Pertama kita harus menginput bilangan pertama sampai bilangan ketiga. Codingnya : 
 
     a=int(input(‘Bilangan 1 = ‘))
     b=int(input(‘Bilangan 2 = ‘))
